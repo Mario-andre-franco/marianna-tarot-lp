@@ -143,6 +143,11 @@ body{
     width: 100%;
     animation: jumping 1s linear infinite;
 }
+.wpp-button {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
 .home-img img{
     display: flex;
     flex-direction: column;
